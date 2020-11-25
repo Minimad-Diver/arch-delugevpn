@@ -1,5 +1,5 @@
-FROM binhex/arch-int-vpn:latest
-MAINTAINER binhex
+FROM Minimad-Diver/arch-int-vpn:latest
+MAINTAINER Minimad-Diver
 
 # additional files
 ##################
